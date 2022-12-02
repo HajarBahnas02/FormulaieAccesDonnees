@@ -1,4 +1,4 @@
-﻿namespace WindowsFormsApplication1
+﻿namespace WindowsFormsApp2
 {
     partial class Form1
     {
@@ -47,7 +47,6 @@
             this.Cbx.Name = "Cbx";
             this.Cbx.Size = new System.Drawing.Size(319, 28);
             this.Cbx.TabIndex = 0;
-            this.Cbx.SelectedIndexChanged += new System.EventHandler(this.Cbx_SelectedIndexChanged);
             // 
             // BtnAjouter
             // 
